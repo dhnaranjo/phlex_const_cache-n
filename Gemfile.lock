@@ -1,0 +1,20 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    phlex (0.3.2)
+      syntax_tree (~> 3.6)
+      zeitwerk (~> 2.6)
+    prettier_print (0.1.0)
+    syntax_tree (3.6.2)
+      prettier_print
+    zeitwerk (2.6.1)
+
+PLATFORMS
+  arm64-darwin-21
+
+DEPENDENCIES
+  phlex
+  zeitwerk
+
+BUNDLED WITH
+   2.3.19
